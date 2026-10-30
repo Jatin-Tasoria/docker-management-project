@@ -134,6 +134,23 @@ docker container prune
 
 ## Screenshots
 
+### Docker Desktop
+
+![Docker Desktop](screenshots/docker-desktop.png)
+
+### Running Containers
+
+![Running Containers](screenshots/running-containers.png)
+
+### Portainer Dashboard
+
+![Portainer Dashboard](screenshots/portainer-dashboard.png)
+
+### Application Output
+
+![Application Output](screenshots/application-output.png)
+
+---
 
 ## Learning Outcomes
 
